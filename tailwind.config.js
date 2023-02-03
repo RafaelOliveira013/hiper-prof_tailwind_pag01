@@ -13,13 +13,15 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        'inter': 'Inter',
-        'iceland': 'Iceland'
+        'inter': ['Inter', 'sans-serif'],
+        'iceland': ['Iceland']
       },
       fontSize: {
-        'text10px': '0.63rem',
-        'text12px': '0.75rem',
-        'text24px': '1.5rem'
+        'text10px': '10px',
+        'text12px': '12px',
+        'text24px': '24px',
+        'text15px': '15px',
+        'text20px': '20px'
       },
       spacing: {
         '570': '570px'

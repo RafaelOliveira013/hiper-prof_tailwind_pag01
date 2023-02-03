@@ -15356,7 +15356,7 @@ video {
 }
 
 .font-inter {
-  font-family: Inter;
+  font-family: Inter, sans-serif;
 }
 
 .font-iceland {
@@ -15429,15 +15429,23 @@ video {
 }
 
 .text-text10px {
-  font-size: 0.63rem;
+  font-size: 10px;
 }
 
 .text-text12px {
-  font-size: 0.75rem;
+  font-size: 12px;
 }
 
 .text-text24px {
-  font-size: 1.5rem;
+  font-size: 24px;
+}
+
+.text-text15px {
+  font-size: 15px;
+}
+
+.text-text20px {
+  font-size: 20px;
 }
 
 .font-thin {
@@ -33187,7 +33195,7 @@ video {
   }
 
   .sm\:font-inter {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
   }
 
   .sm\:font-iceland {
@@ -33260,15 +33268,23 @@ video {
   }
 
   .sm\:text-text10px {
-    font-size: 0.63rem;
+    font-size: 10px;
   }
 
   .sm\:text-text12px {
-    font-size: 0.75rem;
+    font-size: 12px;
   }
 
   .sm\:text-text24px {
-    font-size: 1.5rem;
+    font-size: 24px;
+  }
+
+  .sm\:text-text15px {
+    font-size: 15px;
+  }
+
+  .sm\:text-text20px {
+    font-size: 20px;
   }
 
   .sm\:font-thin {
@@ -50974,7 +50990,7 @@ video {
   }
 
   .md\:font-inter {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
   }
 
   .md\:font-iceland {
@@ -51047,15 +51063,23 @@ video {
   }
 
   .md\:text-text10px {
-    font-size: 0.63rem;
+    font-size: 10px;
   }
 
   .md\:text-text12px {
-    font-size: 0.75rem;
+    font-size: 12px;
   }
 
   .md\:text-text24px {
-    font-size: 1.5rem;
+    font-size: 24px;
+  }
+
+  .md\:text-text15px {
+    font-size: 15px;
+  }
+
+  .md\:text-text20px {
+    font-size: 20px;
   }
 
   .md\:font-thin {
@@ -68761,7 +68785,7 @@ video {
   }
 
   .lg\:font-inter {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
   }
 
   .lg\:font-iceland {
@@ -68834,15 +68858,23 @@ video {
   }
 
   .lg\:text-text10px {
-    font-size: 0.63rem;
+    font-size: 10px;
   }
 
   .lg\:text-text12px {
-    font-size: 0.75rem;
+    font-size: 12px;
   }
 
   .lg\:text-text24px {
-    font-size: 1.5rem;
+    font-size: 24px;
+  }
+
+  .lg\:text-text15px {
+    font-size: 15px;
+  }
+
+  .lg\:text-text20px {
+    font-size: 20px;
   }
 
   .lg\:font-thin {
@@ -86548,7 +86580,7 @@ video {
   }
 
   .xl\:font-inter {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
   }
 
   .xl\:font-iceland {
@@ -86621,15 +86653,23 @@ video {
   }
 
   .xl\:text-text10px {
-    font-size: 0.63rem;
+    font-size: 10px;
   }
 
   .xl\:text-text12px {
-    font-size: 0.75rem;
+    font-size: 12px;
   }
 
   .xl\:text-text24px {
-    font-size: 1.5rem;
+    font-size: 24px;
+  }
+
+  .xl\:text-text15px {
+    font-size: 15px;
+  }
+
+  .xl\:text-text20px {
+    font-size: 20px;
   }
 
   .xl\:font-thin {
@@ -104335,7 +104375,7 @@ video {
   }
 
   .\32xl\:font-inter {
-    font-family: Inter;
+    font-family: Inter, sans-serif;
   }
 
   .\32xl\:font-iceland {
@@ -104408,15 +104448,23 @@ video {
   }
 
   .\32xl\:text-text10px {
-    font-size: 0.63rem;
+    font-size: 10px;
   }
 
   .\32xl\:text-text12px {
-    font-size: 0.75rem;
+    font-size: 12px;
   }
 
   .\32xl\:text-text24px {
-    font-size: 1.5rem;
+    font-size: 24px;
+  }
+
+  .\32xl\:text-text15px {
+    font-size: 15px;
+  }
+
+  .\32xl\:text-text20px {
+    font-size: 20px;
   }
 
   .\32xl\:font-thin {
