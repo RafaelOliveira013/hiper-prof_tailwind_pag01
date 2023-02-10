@@ -24,7 +24,12 @@ module.exports = {
         'text20px': '20px'
       },
       spacing: {
-        '570': '570px'
+        '570': '570px',
+        '389': '389px'
+      },
+      screens: {
+        'average': '900px',
+        'small': '400px'
       }
     }
   },
